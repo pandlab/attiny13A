@@ -14,9 +14,9 @@ attiny13.bootloader.high_fuses=0xFF
 attiny13.bootloader.unlock_bits=0xFF
 attiny13.bootloader.lock_bits=0xFF
 
-attiny13.build.mcu=attiny13a
+attiny13.build.mcu=attiny13A
 attiny13.build.core=core13
-attiny13.build.board=attiny13a
+attiny13.build.board=attiny13A
 
 attiny13.bootloader.unlock_bits=0xFF
 attiny13.bootloader.lock_bits=0xFF

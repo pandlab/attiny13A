@@ -1,3 +1,10 @@
+**It is a forked repo**.
+
+I update it to my requirements:
+* Visual Studio 2019
+* Visual Micro https://www.visualmicro.com/
+* only to build code for ATtiny13A
+
 Core13a
 =======
 
@@ -28,8 +35,8 @@ http://playground.arduino.cc/Main/ArduinoOnOtherAtmelChips
 Installation
 ============
 
-Cd to your Arduino "hardware" folder inside your Arduino
-installation and clone this repository into it:
+Cd to your Arduino "hardware" folder e.g. on windows `C:\Users\<user>\Documents\Arduino\hardware\`
+and clone this repository into it:
 
 e.g.
 ```
